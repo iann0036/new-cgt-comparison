@@ -189,7 +189,7 @@ export default function CGTComparison() {
         <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
           <h1 className="text-xl font-bold text-gray-900">Australian CGT Reform Modeller</h1>
           <p className="text-sm text-gray-500">
-            50% discount vs. inflation indexation — May 2025 budget proposal
+            50% discount vs. inflation indexation — May 2026 budget proposal
           </p>
         </div>
         <div className="flex flex-wrap gap-2 mt-1.5">
