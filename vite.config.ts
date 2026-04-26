@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/new-cgt-comparison/',
+  base: '/new-cgt-comparison/dist/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
