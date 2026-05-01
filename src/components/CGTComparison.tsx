@@ -19,10 +19,10 @@ import { Badge } from '@/components/ui/badge'
 
 const TAX_BRACKETS = [
   { label: '0% (≤ $18,200)', value: 0 },
-  { label: '21% (≤ $45,000 incl. Medicare)', value: 21 },
-  { label: '34.5% (≤ $120,000 incl. Medicare)', value: 34.5 },
-  { label: '39% (≤ $180,000 incl. Medicare)', value: 39 },
-  { label: '47% (> $180,000 incl. Medicare)', value: 47 },
+  { label: '18% (≤ $45,000 incl. Medicare)', value: 18 },
+  { label: '32% (≤ $135,000 incl. Medicare)', value: 32 },
+  { label: '39% (≤ $190,000 incl. Medicare)', value: 39 },
+  { label: '47% (> $190,000 incl. Medicare)', value: 47 },
 ]
 
 const COLORS = {
